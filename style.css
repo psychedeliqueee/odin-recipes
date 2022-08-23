@@ -1,0 +1,13 @@
+.title {
+    text-align: center;
+    background-color: red;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+
+.copyright {
+    text-align: right;
+}
